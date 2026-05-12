@@ -1,0 +1,14 @@
+PS C:\Users\enriq\OneDrive\Escritorio\Componente práctico - Prácticas simuladas\Fase 4 Componente práctico Prácticas simuladas>  & 'C:\Users\enriq\AppData\Local\Python\pythoncore-3.14-64\python.exe' 'c:\Users\enriq\.vscode\extensions\ms-python.debugpy-2026.6.0-win32-x64\bundled\libs\debugpy\launcher' '53795' '--' 'C:\Users\enriq\OneDrive\Escritorio\Componente práctico - Prácticas simuladas\Fase 4 Componente práctico Prácticas simuladas\SistemaIntegralGestion.py' 
+Hellman Enrique Piñeros Rodriguez
+Grupo: 213023
+Fase 4 Componente práctico Prácticas simuladas
+SistemasIntegralGestión
+Codigo fuente autoria propia
+PS C:\Users\enriq\OneDrive\Escritorio\Componente práctico - Prácticas simuladas\Fase 4 Componente práctico Prácticas simuladas> ^C
+PS C:\Users\enriq\OneDrive\Escritorio\Componente práctico - Prácticas simuladas\Fase 4 Componente práctico Prácticas simuladas> 
+PS C:\Users\enriq\OneDrive\Escritorio\Componente práctico - Prácticas simuladas\Fase 4 Componente práctico Prácticas simuladas>  c:; cd 'c:\Users\enriq\OneDrive\Escritorio\Componente práctico - Prácticas simuladas\Fase 4 Componente práctico Prácticas simuladas'; & 'C:\Users\enriq\AppData\Local\Python\pythoncore-3.14-64\python.exe' 'c:\Users\enriq\.vscode\extensions\ms-python.debugpy-2026.6.0-win32-x64\bundled\libs\debugpy\launcher' '63196' '--' 'C:\Users\enriq\OneDrive\Escritorio\Componente práctico - Prácticas simuladas\Fase 4 Componente práctico Prácticas simuladas\SistemaIntegralGestion.py' 
+Hellman Enrique Piñeros Rodriguez
+Grupo: 213023
+Fase 4 Componente práctico Prácticas simuladas
+SistemasIntegralGestión
+Codigo fuente autoria propia
